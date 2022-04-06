@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution](https://github.com/fabioAlcocer/regEx-form-responsive)
-- Live Site URL: [Live](https://api-github-search.netlify.app/)
+- Solution URL: [Solution](https://github.com/fabioAlcocer/page-suscribe-dark-mode)
+- Live Site URL: [Live](https://page-suscribe-dark.netlify.app/)
 
 ## My process
 
@@ -44,7 +44,8 @@ Users should be able to:
 
 ### What I learned
 
-Some of the new things I learned in this project were validating forms using regular expressions, as well as adapting the design to any screen size.
+Some of the new things I learned in this project were validating forms using regular expressions, as well as adapting the design to any screen size. 
+How to implement dark mode 
 
 ### Useful resources
 
